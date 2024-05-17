@@ -1,0 +1,32 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Thu Dec 21 06:53:40 2023
+[*]
+[dumpfile] "/home/husni/Tahoe_Example_Projects/mem_tb/sim/dump.vcd"
+[dumpfile_mtime] "Thu Dec 21 06:47:26 2023"
+[dumpfile_size] 21459
+[savefile] "/home/husni/Tahoe_Example_Projects/mem_tb/sim/orgzd.vcd.gtkw"
+[timestart] 0
+[size] 1920 1016
+[pos] -38 -38
+*-16.807928 280000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_top.
+[treeopen] tb_top.DUT_1.
+[treeopen] tb_top.test0.
+[sst_width] 233
+[signals_width] 224
+[sst_expanded] 1
+[sst_vpaned_height] 289
+@28
+tb_top.INTF.clk
+tb_top.INTF.rst_n
+@29
+tb_top.INTF.rd_wr
+@28
+tb_top.INTF.enb
+@22
+tb_top.INTF.addr[15:0]
+tb_top.INTF.data_in[31:0]
+tb_top.INTF.data_out[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
